@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Update fraction arg to employ a random selection (#8234)
