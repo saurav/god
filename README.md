@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Fix OpenVINO links (#7930)
