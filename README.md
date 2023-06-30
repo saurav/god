@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
