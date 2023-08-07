@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add Neural Magic Docs integrations page (#7234)
