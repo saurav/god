@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Updated SQL Query Plot Code (#8120)
