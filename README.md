@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Compress docs images (#8124)
