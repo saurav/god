@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
