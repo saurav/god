@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
