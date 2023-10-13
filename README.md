@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+New HUB Cloud Training docs page (#8174)
