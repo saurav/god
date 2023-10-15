@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Explorer with LanceDB, Actions and Docs updates (#7487)
