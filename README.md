@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update pyproject.toml and Docs (#7274)
