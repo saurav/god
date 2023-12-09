@@ -1,1 +1,1 @@
-Update README.md
+Replace onnx2tf usage from CLI to Python (#8429)
