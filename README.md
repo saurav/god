@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add PR Summary step to Ultralytics Actions (#7675)
