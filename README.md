@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add Weights & Biases Docs integrations page (#7199)
