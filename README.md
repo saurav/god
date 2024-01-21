@@ -1,1 +1,1 @@
-fix print val map
+fix predict with class filter
