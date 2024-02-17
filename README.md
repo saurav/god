@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
