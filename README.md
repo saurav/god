@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add HUB-SDK Docs reference section (#7781)
