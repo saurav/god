@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Feature: Create HUB Models from CLI or Python Script (#7316)
