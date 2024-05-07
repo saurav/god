@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
