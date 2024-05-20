@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix docker.yaml double-quote version bug (#7452)
