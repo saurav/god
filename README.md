@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Fix tfjs exports for ARM64 Dockerfile (#8766)
