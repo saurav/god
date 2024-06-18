@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
