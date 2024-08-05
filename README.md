@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Add OBB benchmarks to CI (#7777)
