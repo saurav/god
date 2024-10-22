@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
